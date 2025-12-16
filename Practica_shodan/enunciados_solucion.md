@@ -36,12 +36,12 @@ Encuentra **servidores RDP (puerto 3389)** expuestos que pertenezcan a **organiz
 ### 🟠 5. Nivel medio
 
 Busca **instancias de Elasticsearch** accesibles públicamente que **NO usen SSL**.
-product:Elasticsearch port:9200 ssl:false
+* product:Elasticsearch port:9200 ssl:false
 ---
 
 ### 🟠 6. Nivel medio-intermedio
 
 Identifica **hosts vulnerables a una CVE concreta** (elige una CVE conocida) que estén ubicados en **Europa** y expongan un **servicio web**.
-vuln:CVE-2021-44228 port:80 country:DE,FR,ES,IT
+* vuln:CVE-2021-44228 port:80 country:DE,FR,ES,IT
 ---
 
