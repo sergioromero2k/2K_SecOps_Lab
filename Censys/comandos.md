@@ -1,4 +1,6 @@
-## CENSYS – Chuleta de comandos (Ciberseguridad)
+## Censys
+
+Nació de una investigación en la Universidad de Michigan y utiliza herramientas de escaneo extremadamente rápidas (como ZMap). Su enfoque es crear un "mapa del Internet" más estructurado y completo, centrándose mucho en los certificados SSL/TLS y la infraestructura corporativa.
 
 ### Servicios y puertos
 

@@ -1,4 +1,6 @@
-## SHODAN – Chuleta de Ciberseguridad
+## Shodan 
+
+Es el buscador más famoso y veterano en este campo. Su objetivo es encontrar dispositivos específicos conectados a la red. Escanea puertos comunes y lee los "banners" (la información de presentación que envía un servicio) para identificar qué sistema operativo o software está corriendo.
 
 ### Búsquedas básicas
 
