@@ -1,4 +1,3 @@
-# PentestReportsPublic
+# 2K_SecOps_Lab
 
-Este repositorio está dedicado a la recopilación y publicación de informes de pruebas de penetración. Su objetivo es compartir hallazgos, metodologías y lecciones aprendidas en el ámbito del pentesting.
-Además, este espacio está diseñado para que puedas practicar y aprender de manera efectiva, mejorando tus habilidades en seguridad informática. Aquí encontrarás recursos valiosos que te ayudarán a crecer en este campo.
+Repositorio dedicado a prácticas de SecOps (Seguridad y Operaciones). Incluye laboratorios de análisis de vulnerabilidades, pruebas de penetración, gestión de incidentes y automatización de tareas de seguridad. Ideal para estudiantes y profesionales que quieren mejorar sus habilidades en ciberseguridad de manera práctica y segura.
