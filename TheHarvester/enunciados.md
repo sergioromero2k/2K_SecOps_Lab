@@ -1,4 +1,4 @@
-## PRÁCTICA CON ***THEHARVESTER***
+## Práctica con ***THEHARVESTER***
 ---
 ### 1. Nivel fácil
 
