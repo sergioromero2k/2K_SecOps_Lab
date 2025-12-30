@@ -36,17 +36,18 @@
 * Responde: Qué información es útil, Qué información es ruido
 * No uses herramientas externas para analizar.
 
-### B. Nivel Avanzado
+### C. Nivel Avanzado
 #### 6. Comparación de fuentes 
 **Objetivo:** Pensamiento crítico
 * Ejecuta ***TheHarvester***.
 * Un buscador
-* Un servicio de certificados (crtsh) Compara:, qubdominios encontrados.
+* Un servicio de certificados (crtsh) Compara:, subdominios encontrados.
 * Diferencias de calidad
 * Explica por qué los resultados cambian.
 
 #### 7. Escenario (realista)
 **Objetivo:** Uso real en pentesting
+
 **Escenario:** Estás en la fase inicial de un pentest autorizado.
 * Elige 3 fuentes de ***TheHarvester***
 * Ejecuta comandos adecuados
