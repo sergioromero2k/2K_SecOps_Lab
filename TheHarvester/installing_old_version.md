@@ -60,6 +60,7 @@ theHarvester
 
 # Usar la versión antigua (3.2.2)
 cd old_harvester/theHarvester-3.2.2
+source ~/miniconda3/etc/profile.d/conda.sh
 conda activate old_harvester
 python theHarvester.py
 ```

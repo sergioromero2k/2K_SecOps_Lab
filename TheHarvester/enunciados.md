@@ -53,6 +53,3 @@
 * **Decide:** Qué información usarías primero, qué información descartarías.
 * Explica qué harías después (sin atacar)
 * Enfocado a metodología, no explotación.
-
-#### Soluciones
----
