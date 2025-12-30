@@ -1,4 +1,4 @@
-## Shodan 
+## The Harvester 
 ---
 **theHarvester** es una de las herramientas más clásicas y potentes para **la fase de Reconocimiento (OSINT) en ciberseguridad.** 
 
@@ -26,6 +26,7 @@ Sirve para:
 - Descubrir subdominios olvidados
 - Obtener correos corporativos reales
 - Preparar ataques posteriores (phishing, password spraying, análisis DNS)
+
 Forma parte de la **fase 1: Reconocimiento**.
 
 ### ¿Cuándo usar TheHarvester?
@@ -41,6 +42,7 @@ No se usa para explotar sistemas.
 sudo apt install theharvester
 ```
 ### Comandos más usados
+```
 theHarvester -d empresa.com -b google               -- Búsqueda básica en Google
 theHarvester -d empresa.com -b bing                 -- Usar Bing
 theHarvester -d empresa.com -b google -l 200        -- Limitar número de resultados
@@ -49,3 +51,4 @@ theHarvester -d empresa.com -b google,bing,duckduckgo,yahoo -- Múltiples fuente
 theHarvester -d empresa.com -b google -f resultado  -- Guardar resultados en archivos
 theHarvester -d empresa.com -b hunter               -- Uso de APIs (Hunter)
 theHarvester -h                                     -- Ver todas las fuentes disponibles
+```
