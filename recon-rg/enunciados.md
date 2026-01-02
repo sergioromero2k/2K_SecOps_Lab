@@ -10,7 +10,7 @@
 * Verifica que ahora aparecen en tu lista de módulos instalados.
 
 **Reto 3** 
-* Primeros pasos OSINT Utiliza el módulo recon/domains-hosts/crtsh (que busca certificados SSL) para encontrar subdominios de nasa.gov. 
+* Primeros pasos OSINT Utiliza el módulo recon/domains-hosts/certificate_transparency (que busca certificados SSL) para encontrar subdominios de nasa.gov. 
 * Al terminar, muestra por pantalla la tabla de hosts para ver cuántos resultados has obtenido.
 
 ## Nivel Medio (Gestión de datos)
