@@ -30,7 +30,6 @@ show hosts
 db insert domains
 # Introduce: cia.gov (en la parte de 'domain')
 # El resto de campos puedes dejarlos en blanco pulsando Enter
-
 marketplace search pgp_search
 marketplace install recon/domains-contacts/pgp_search
 modules load recon/domains-contacts/pgp_search
