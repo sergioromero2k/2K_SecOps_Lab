@@ -14,11 +14,13 @@ Busca documentos en el dominio de una empresa mediana que hayan sido escaneados 
 ## Nivel Intermedio
 ### 3. Fuga de infraestructura (Internal IPs)
 Configura ***FOCA*** para buscar documentos específicos en un dominio corporativo.
-* **Tu objetivo:** Encontrar dentro de los metadatos de archivos de Excel (.xlsx) o PowerPoint (.pptx) direcciones IP internas (típicamente de rango 10.x.x.x o 192.168.x.x). ¿Cómo podrías usar esta información en un ejercicio de pentesting posterior?
+* **Tu objetivo:** Encontrar dentro de los metadatos de archivos de Excel (.xlsx) o PowerPoint (.pptx) direcciones IP internas (típicamente de rango 10.x.x.x o 192.168.x.x). 
+* ¿Cómo podrías usar esta información en un ejercicio de pentesting posterior?
 
 ### 4. Análisis de rutas de red y carpetas
 A veces, los documentos guardan la ruta local donde estaban almacenados antes de ser subidos a la web.
-* **Tu objetivo:** Extraer rutas de carpetas (ej. C:\Users\j.garcia\Documents\Proyectos2023\Privado\). Analiza si estas rutas revelan la estructura de nombres de usuario de la empresa o proyectos confidenciales que no deberían ser públicos.
+* **Tu objetivo:** Extraer rutas de carpetas (ej. C:\Users\j.garcia\Documents\Proyectos2023\Privado\). 
+* Analiza si estas rutas revelan la estructura de nombres de usuario de la empresa o proyectos confidenciales que no deberían ser públicos.
 
 ### 5. Relaciones de confianza y dominios
 ***FOCA*** no solo saca metadatos de archivos, también analiza DNS.
