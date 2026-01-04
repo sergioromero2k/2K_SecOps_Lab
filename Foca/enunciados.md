@@ -3,7 +3,8 @@
 
 ## Nivel Básico
 ### 1. El rastro del autor
-Selecciona una organización pública (un ayuntamiento pequeño o una universidad). Utiliza ***FOCA*** para extraer metadatos de documentos .pdf y .docx.
+* Selecciona una organización pública (un ayuntamiento pequeño o una universidad). 
+* Utiliza ***FOCA*** para extraer metadatos de documentos .pdf y .docx.
 * **Tu objetivo:** Identificar al menos 3 nombres de usuario reales y las versiones de software (ej. Microsoft Office 2016) utilizadas para crear los archivos. ¿Qué nos dice esto sobre el parque informático de la entidad?
 
 ### 2. El mapa de las impresoras
