@@ -15,3 +15,33 @@ Metagoofil viene preinstalado en Kali Linux (la distribución estándar para cib
 sudo apt update
 sudo apt install metagoofil
 ```
+```bash 
+metagoofil -d dominio.com -t pdf,doc,xls -l 100 -n 20 -o resultados -f reporte.html
+```
+
+| Opción | Descripción                           |
+| ------ | ------------------------------------- |
+| `-d`   | Dominio objetivo                      |
+| `-t`   | Tipos de archivo                      |
+| `-l`   | Límite de resultados de búsqueda      |
+| `-n`   | Número máximo de archivos a descargar |
+| `-o`   | Directorio de salida                  |
+| `-f`   | Archivo de reporte HTML               |
+| `-h`   | Ayuda                                 
+
+### Comandos
+```bash 
+metagoofil -h  # Comprobar instalación
+``` 
+```bash 
+metagoofil -d empresa.com -t pdf -o salida # Búsqueda básica
+``` 
+```bash 
+metagoofil -d empresa.com -t pdf,doc,xls -l 200 -n 50 -o meta -f meta.html # Buscar múltiples tipos y generar reporte
+``` 
+```bash 
+metagoofil -d universidad.edu -t doc,docx -o users  # Enumeración de usuarios internos
+``` 
+```bash 
+metagoofil -d empresa.com -t pdf,ppt,pptx,xls -l 300 -n 100 -o osint -f informe.html # Auditoría OSINT corporativa
+``` 
