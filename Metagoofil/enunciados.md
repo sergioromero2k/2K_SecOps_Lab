@@ -16,7 +16,7 @@
 
 ### Nivel: Intermedio (Análisis de Infraestructura)
 #### 4. Caza de Usuarios y Rutas
-* Ejecuta la herramienta contra un dominio gubernamental (ejemplo: .gob de tu país) buscando archivos .xlsx (Excel). Al terminar, revisa el reporte generado y busca si aparecen nombres de usuarios (como j.perez) o rutas de red (como C:\Users\Administrador\Documents...).
+* Ejecuta la herramienta contra un dominio gubernamental (ejemplo: .gob de tu país) buscando archivos ``.xlsx`` (Excel). Al terminar, revisa el reporte generado y busca si aparecen nombres de usuarios (como j.perez) o rutas de red (como ``C:\Users\Administrador\Documents...``).
 * **Objetivo:** Identificar posibles vectores de ataque de fuerza bruta.
 
 #### 5. El Limpiador (Defensa) 

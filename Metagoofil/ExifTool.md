@@ -6,6 +6,10 @@
 * Los metadatos pueden filtrar información sensible como: Nombres reales de empleados, Correos internos, Nombres de equipos, Rutas del sistema (C:\Users\Juan\Documents\...), Ubicaciones GPS, Software interno (Office, versiones, etc.)
 * Metagoofil usa internamente herramientas como ExifTool para analizar esos archivos.
 
+```bash
+sudo apt update
+sudo apt install exiftool
+```
 #### Ejemplo
 ```bash
 exiftool archivo.pdf # Leer metadatos
