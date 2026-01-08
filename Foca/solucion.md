@@ -54,5 +54,3 @@ Los subdominios ``dev``, ``test`` y ``staging`` no aparecen enlazados en la web 
 192.168.20.30 → staging-db.empresa-ejemplo.com
 ```
 Estos entornos no suelen tener el mismo nivel de seguridad que el dominio principal (``www.empresa-ejemplo.com``).
-
-### Problema 6

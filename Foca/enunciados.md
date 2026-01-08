@@ -26,11 +26,3 @@ A veces, los documentos guardan la ruta local donde estaban almacenados antes de
 ***FOCA*** no solo saca metadatos de archivos, también analiza DNS.
 * **Tu objetivo:** Utiliza la función de búsqueda de subdominios y búsqueda inversa (PTR). Intenta encontrar servidores de "staging", "test" o "dev" que no aparezcan en la web principal. ¿Tienen estos servidores los mismos niveles de seguridad que el dominio principal?
 
-## Nivel Avanzado
-### 6. (Simulado): Deducción del Sistema Operativo
-A partir de la información recolectada en los puntos anteriores (versiones de software, rutas de archivos, nombres de servidor).
-* **Tu objetivo:** Crear un informe de "Perfil de Usuario". Basándote en los metadatos, deduce qué sistema operativo predomina en la organización (Windows 10, Windows 11, macOS) y si hay usuarios que utilizan software desactualizado que represente un riesgo.
-
-### 7. El Reto del "Tesoro Escondido"
-Busca un dominio que contenga archivos .log, .bak o .pcap indexados por Google o Bing y agrégalos a ***FOCA***.
-* **Tu objetivo:** Analizar si ***FOCA*** es capaz de extraer información crítica de archivos que no son documentos ofimáticos estándar. Busca credenciales por defecto o mensajes de error del servidor que revelen tecnologías de base de datos.
