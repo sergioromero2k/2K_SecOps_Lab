@@ -24,7 +24,7 @@
 * **Objetivo:** Aprender la contramedida necesaria para proteger a una empresa.
 
 #### 6. Generación de Reporte 
-* Profesional Configura Metagoofil para que guarde todos los archivos descargados en una carpeta específica y genere un archivo HTML con los resultados. Analiza ese HTML y cuenta cuántos correos electrónicos pudo recolectar automáticamente.
+* **Configura Metagoofil** para que guarde todos los archivos descargados en una carpeta específica y genere un archivo HTML con los resultados. Analiza ese HTML y cuenta cuántos correos electrónicos pudo recolectar automáticamente.
 * **Objetivo:** Aprender a organizar la información para presentarla en un reporte de auditoría.
 
 #### 7. Combinación de extensiones
